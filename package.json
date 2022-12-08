@@ -18,7 +18,7 @@
   "homepage": "https://github.com/davislf2/Chatbot_DialogFlow_practice#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "nodemon": "^1.18.4",
     "request": "^2.88.0"
   }
